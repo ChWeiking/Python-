@@ -1,0 +1,524 @@
+[INFO  - 2019-04-01T17:19:20.229Z] GhostDriver - Main - running on port 60681
+[INFO  - 2019-04-01T17:19:21.668Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-04-01T17:19:21.668Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.customHeaders:  - {}
+[INFO  - 2019-04-01T17:19:21.668Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-01T17:19:21.668Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4a20ced0-54a2-11e9-aa05-eb16ac94d14a
+[ERROR - 2019-04-01T17:19:26.735Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.735Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.738Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.738Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.741Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.741Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.904Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.905Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.907Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.907Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.909Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.909Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.911Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.911Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.913Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.914Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.916Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.916Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.918Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.918Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.920Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:26.920Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.022Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.022Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:231)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.239Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.239Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _sendKeys (phantomjs://code/inputs.js:232)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.241Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.241Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.243Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.243Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.245Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.245Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.247Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.247Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.256Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.257Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.259Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.259Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.261Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.261Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.262Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.262Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.265Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.265Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.267Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.267Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.269Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.269Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.271Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.271Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:237)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.274Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.274Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _keyEvent (phantomjs://code/inputs.js:325)
+  _pressKey (phantomjs://code/inputs.js:280)
+  _sendKeys (phantomjs://code/inputs.js:231)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.275Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'e[1]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:27.275Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  t (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:4)
+  (anonymous function) (https://img3.doubanio.com/f/accounts/8c80ca681fe2556cc91275358991f120ccdee9e2/passport/build/login/base.js:2)
+  sendEvent (:0)
+  _sendKeys (phantomjs://code/inputs.js:232)
+  _postValueCommand (phantomjs://code/webelement_request_handler.js:288)
+  _handle (phantomjs://code/webelement_request_handler.js:72)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/session_request_handler.js:120)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:30.978Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - msg: TypeError: null is not an object (evaluating 'pageState.percent_type')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:19:30.978Z] Session [4a20ced0-54a2-11e9-aa05-eb16ac94d14a] - page.onError - stack:
+  onpopstate (https://img3.doubanio.com/misc/mixed_static/6e02633790b21f4d.js:108)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-01T17:21:00.018Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1554139259971
+
+  phantomjs://platform/console++.js:263 in error
